@@ -78,7 +78,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img class="img-responsive" src="img/profile.png" alt="">
+                    <img class="img-responsive" src="images/profile.png" alt="">
                     <div class="intro-text">
                         <span class="name">Michael Cabana</span>
                         <hr class="star-light">
@@ -106,7 +106,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/tweetbot.png" class="img-responsive" alt="">
+                        <img src="images/tweetbot.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -116,7 +116,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/pand.png" class="img-responsive" alt="">
+                        <img src="images/pand.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -126,7 +126,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/meli.png" class="img-responsive" alt="">
+                        <img src="images/meli.png" class="img-responsive" alt="">
                     </a>
                 </div>
 
@@ -173,7 +173,7 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
                     <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
-                  <form name="" id="" action="https://formspree.io/mikeycabana@gmail.com" method="POST">
+                  <form name="" id="" action="mail/contact_me.php" method="POST">
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Name</label>
@@ -279,7 +279,7 @@
                         <div class="modal-body">
                             <h2>EverythingMTL Twitter Bot</h2>
                             <hr class="star-primary">
-                            <img src="img/tweetbot.png" class="img-responsive img-centered" alt="">
+                            <img src="images/tweetbot.png" class="img-responsive img-centered" alt="">
                             <p>This Twitter bot will repost any interesting, important and relevant Tweets having to do with Montreal and relevant institutions. I'm building it in <a href="https://nodejs.org/en/" target="_blank">Node.js</a> and using it as a chance to learn the node environment. Follow it <a href="https://twitter.com/everything_mtl">@everything_mtl</a>.</p>
                             <ul class="list-inline item-details">
                                 
@@ -313,7 +313,7 @@
                         <div class="modal-body">
                             <h2>Pandemic by Z-man Games in C++</h2>
                             <hr class="star-primary">
-                            <img src="img/pand.png" class="img-responsive img-centered" alt="">
+                            <img src="images/pand.png" class="img-responsive img-centered" alt="">
                             <p>This is a university C++ project. This C++ application will be a command line game which will mimic the Pandemic boardgame. It will allow players to play this cooperative strategy game on their computers. My team and I are developping this application for a class project to be presented by the end of the Winter 2017 semester. </p>
                             <ul class="list-inline item-details">
                                 <li>Client:
@@ -350,7 +350,7 @@
                         <div class="modal-body">
                             <h2>Project Title</h2>
                             <hr class="star-primary">
-                            <img src="img/meli.png" class="img-responsive img-centered" alt="">
+                            <img src="images/meli.png" class="img-responsive img-centered" alt="">
                             <p>This is a website I built using the <a href="http://squarespace.com" target="_blank">SquareSpace</a> content managment system. Built for a fellow up and coming hairstylist and her salon.</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
