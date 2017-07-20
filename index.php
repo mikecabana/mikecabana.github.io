@@ -32,7 +32,14 @@
 </head>
 
 <body id="page-top" class="index">
-
+<?php
+    session_start();
+    if(isset($_SESSION['message']))
+    {
+        echo($_SESSION['message']);
+        unset($_SESSION['message']);
+    }
+?>
     <!-- Navigation -->
     <nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
         <div class="container">
