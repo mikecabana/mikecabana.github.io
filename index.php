@@ -131,6 +131,18 @@
                 </div>
 
             </div>
+            <div class="row">
+                <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="images/ems.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+            </div>
         </div>
     </section>
 
@@ -363,6 +375,40 @@
                                 </li>
                                 <li>Service:
                                     <strong>Web Development
+                                    </strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>EMS - Employee Management System</h2>
+                            <hr class="star-primary">
+                            <img src="images/ems.png" class="img-responsive img-centered" alt="">
+                            <p>A web based system for use in managing employees in an invite only scenario such as yearly events in need of volunteers. The system is being built using the small footprint PHP based Codeigniter framework and is being styled with Bootstrap as a backbone. More info available upon request.</p>
+                            <ul class="list-inline item-details">
+                                
+                                <li>Date:
+                                    <strong>2017
+                                    </strong>
+                                </li>
+                                <li>Service:
+                                    <strong>Web Development / Application
                                     </strong>
                                 </li>
                             </ul>
